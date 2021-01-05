@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 5px;
+    margin: 0px;
     
 }
 h1{
@@ -44,12 +44,12 @@ section{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 50%;
+    height: 60%;
     background-color: white;
 }
 .experience-area{
